@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Nicolás Pedranti 👋
 
-<!--
-**Itnardoel/Itnardoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate self-taught software developer, focused mainly on frontend technologies and always looking for the best solutions to challenging problems. Currently, I am working with a team on [Ecos](https://github.com/Cecilia-Suarez/Ecos), and I'm eager to continue growing in the IT world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React.js, Node.js
+- **Tools:** Vite, Playwright
+
+---
+
+## 🚀 Projects
+
+- [vite-marvel-searcher](https://github.com/Itnardoel/vite-marvel-searcher)
+- [next-entrevistaidor](https://github.com/Itnardoel/next-entrevistaidor)
+- [wallbit-challenge](https://github.com/Itnardoel/wallbit-challenge)
+- [playwright-appointment-checker](https://github.com/Itnardoel/playwright-appointment-checker)
+- [Ecos (current team project)](https://github.com/Cecilia-Suarez/Ecos)
+
+---
+
+## 🌱 About Me
+
+- I love finding the best solution for any given problem.
+- I am actively seeking to enter the IT world in a professional capacity.
+- Always willing to learn and improve the quality of my code.
+- My hobbies include **video games**, **music**, and **anime**.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nicolas-pedranti/)
+- [Portfolio](https://nicolaspedranti.vercel.app/)
+
+---
+
+Thanks for stopping by! 😊
